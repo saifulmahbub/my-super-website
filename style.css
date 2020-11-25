@@ -1,0 +1,78 @@
+head{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0; 
+   
+}
+
+
+}
+.top-banner h2{
+   color: crimson;
+   font-size: 30px;
+}
+
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+
+.half-width{
+    
+    width: 40%;
+    float: left;
+    padding: 2%;
+    margin: 2%;
+   
+   
+
+}
+.half-width img{
+
+    width: 100%;
+    
+}
+
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(crimson,red);
+    color: white;
+    padding: 10px 10px;
+}
+.part{
+    width: 25%;
+    margin: 2%;
+    padding: 2%;
+    float: left;
+}
+.part img{
+    width: 100%;
+}
+.latest-work h2{
+    text-align: center;
+}
+.top-banner{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.biography{
+    
+    background-image: url(images/biography-bg.png);
+}
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+}
+.footer{
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+}
+.saiful{
+    background-color: crimson;
+    color: white;
+    padding: 10px 10px;
+    margin: 20px 140px;
+}
+#mahbub{
+    margin-top: 100px;
+}
